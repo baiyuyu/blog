@@ -1,11 +1,11 @@
 # Site settings
-title: Confused Xiaoye
-SEOTitle: 困惑的小烨 | Confused Xiaoye
+title:  Yuyu！Fighting
+SEOTitle: 鱼鱼要游到大海里面去了 | Yuyu！Fighting
 header-img: img/home_20190812.jpg
 # email: huxpro@gmail.com
 description: "Not knowing something doesn’t mean you’re dumb— it just means you don’t know it."
 # keyword: ""
-url: "http://xiaoye-hua.github.io"              # your host, for absolute URL
+url: "http://yuyubai.github.io"              # your host, for absolute URL
 # baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ url: "http://xiaoye-hua.github.io"              # your host, for absolute URL
 # RSS: false
 # weibo_username:     huxpro
 # zhihu_username:     huxpro
-github_username:    xiaoye-hua
+github_username:    yuyubai
 # #twitter_username:  huxpro
 # facebook_username:  huxpro
 
